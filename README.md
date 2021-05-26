@@ -93,10 +93,10 @@ La fonction obtenirPieceAleatoire sert à choisir une pièce aléatoire du dicti
 {
     "symbole": "i",
     "couleur": [0, 255, 255],
-    "forme": [['0'],
-              ['0'],
-              ['0'],
-              ['0']]
+    "forme": [["0"],
+              ["0"],
+              ["0"],
+              ["0"]]
     }
 ```
 
@@ -187,7 +187,7 @@ Cette fois-ci, c'est vous qui devrez coder le fichier qui exécute les tests. Le
 
 Chaque fichier .json dans le dossier `resultatTests` représente une liste de tests et les résultats attendus, sous la forme suivante:
 
-```JSON
+```python
 {
     "tests": [
         {
