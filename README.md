@@ -1,7 +1,6 @@
 # TP2
 
-#### :alarm_clock: [Date de remise le mardi 8 juin 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210608T2359&p0=165&msg=Remise+TP2&font=slab&csz=1)
-
+#### :alarm_clock: [Date de remise le Dimanche 5 juin 2021 à 23h59]
 ## Objectif
 
 Ce TP a pour objectif de pratiquer les fonctions et la lecture et écriture de fichiers, en plus de continuer d'approfondir vos compétences d'algorithmie.
@@ -10,7 +9,7 @@ Ce TP a pour objectif de pratiquer les fonctions et la lecture et écriture de f
 
 Une démarche de qualité et un bon résultat donnent la note maximale. Une erreur minime (ex faute de frappe) mènera à une pénalité de 0.5 points. Puisqu'il s'agit d'un cours de programmation, une attention particulière sera accordée à la qualité du code. La note possible maximale du TP est 100%.
 
-Aussi, pour le 2e TP, je serai un peu plus regardante sur les algorithmes que vous utilisez pour compléter les fonctions. Faites donc attention à éviter les boucles inutiles et les fonctions trop complexes.
+Aussi, pour le 2e TP, je serai un peu plus regardant sur les algorithmes que vous utilisez pour compléter les fonctions. Faites donc attention à éviter les boucles inutiles et les fonctions trop complexes.
 
 Un code qui ne roule pas est un 0 automatique, alors testez votre code!!
 
